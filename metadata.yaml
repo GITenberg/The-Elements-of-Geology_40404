@@ -1,0 +1,34 @@
+_repo: The-Elements-of-Geology_40404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norton, William Harmon
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '1395'
+    url: http://www.gutenberg.org/2009/agents/1395
+description: ''
+gutenberg_issued: '2012-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geology'
+tableOfContents: 'Introduction: the scope and aim of geology -- Part I. External geological
+  agencies: The work of the weather. The work of ground water. Rivers and valleys.
+  River deposits. The work of glaciers. The work of the wind. The sea and its shores.
+  Offshore and deep-sea deposits -- Part II. Internal geological agencies: Movements
+  of the earth''s crust. Earthquakes. Volcanoes. Underground structures of igneous
+  origin. Metamorphism and mineral veins -- Part III. Historical geology: The geological
+  record. The pre-Cambrian systems. The Cambrian. The Ordovician and Silurian. The
+  Devonian. The Carboniferous. The Mesozoic. The Tertiary. The Quaternary.'
+title: The Elements of Geology
+url: http://www.gutenberg.org/ebooks/40404
